@@ -5,8 +5,8 @@ The analysis covers one year of transaction data (December 2010 – December 201
 
 
 ## Business Objective
-To provide data-driven insights and recommendations that support:
-Increased sales and revenue
+- To provide data-driven insights and recommendations that support:
+- Increased sales and revenue
 Better customer segmentation and targeting
 Improved inventory and product placement decisions
 

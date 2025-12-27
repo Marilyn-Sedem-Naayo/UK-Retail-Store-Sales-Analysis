@@ -1,7 +1,5 @@
-#UK Retail Store Sales Data Analysis
-
-###Overview
-
+**UK Retail Store Sales Data Analysis**
+**Overview**
 This project analyzes historical sales data from a UK-based retail store with outlets across the UK and 37 other countries. The goal of the analysis is to generate actionable business insights that can help improve sales performance, customer targeting, and inventory management.
 The analysis covers one year of transaction data (December 2010 – December 2011) and focuses on understanding customer behavior, product performance, and sales trends over time.
 

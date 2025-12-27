@@ -1,17 +1,21 @@
-UK Retail Store Sales Data Analysis
+#UK Retail Store Sales Data Analysis
 
-Overview
+###Overview
+
 This project analyzes historical sales data from a UK-based retail store with outlets across the UK and 37 other countries. The goal of the analysis is to generate actionable business insights that can help improve sales performance, customer targeting, and inventory management.
 The analysis covers one year of transaction data (December 2010 – December 2011) and focuses on understanding customer behavior, product performance, and sales trends over time.
 
-Business Objective
+
+###Business Objective
 
 To provide data-driven insights and recommendations that support:
 Increased sales and revenue
 Better customer segmentation and targeting
 Improved inventory and product placement decisions
 
-Dataset Description
+
+###Dataset Description
+
 The dataset contains retail transaction-level data, including:
 Customer ID
 Invoice date and time
@@ -24,7 +28,8 @@ Customers: ~3,950
 Products: ~3,804
 Total Sales: £8.618 million
 
-Business Questions Addressed
+###Business Questions Addressed
+
 How many unique items and customers are there?
 What are the most and least purchased products?
 Who are the top customers, and what do they purchase?

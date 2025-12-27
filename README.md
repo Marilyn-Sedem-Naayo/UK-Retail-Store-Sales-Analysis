@@ -24,8 +24,7 @@ Customers: ~3,950
 Products: ~3,804
 Total Sales: £8.618 million
 
-###Business Questions Addressed
-
+## Business Questions Addressed
 How many unique items and customers are there?
 What are the most and least purchased products?
 Who are the top customers, and what do they purchase?
@@ -33,25 +32,26 @@ On which days of the week are sales highest?
 At what time of day do most sales occur?
 How can customers be segmented based on purchasing behavior?
 
-Key Analyses Performed
+## Key Analyses Performed
 Exploratory Data Analysis (EDA) to understand sales distribution and trends
 Sales trend analysis by time of day and day of the week
 Product performance analysis (most and least purchased items)
 Customer analysis, including identification of high-value customers
 RFM (Recency, Frequency, Monetary) analysis for customer segmentation
-RFM Customer Segments Identified
+
+### RFM Customer Segments Identified
 Loyal Customers
 Potential Loyalists
 At-Risk Customers
 Low-Value Customers
 
-Key Insights
+## Key Insights
 Sundays record the highest sales volume during the week
 A small group of customers contributes disproportionately to total revenue
 Certain products consistently show high demand, requiring proactive stock management
 Several low-performing items may benefit from bundling or repositioning
 
-Recommendations
+## Recommendations
 Focus targeted promotions on loyal customers and potential loyalists
 Order high-demand products ahead of time to avoid stockouts
 Bundle low-selling items with high-demand products to increase visibility
@@ -60,15 +60,15 @@ Investigate causes of product returns to reduce revenue loss
 Include profit per sale data in future datasets to enable profitability analysis
 Use data from additional years to improve revenue forecasting
 
-Tools & Technologies
+## Tools & Technologies
 Python (Pandas, NumPy)
 Data visualization libraries (Matplotlib, Seaborn)
 Jupyter Notebook
 
-Project Output
+## Project Output
 Exploratory analysis and visualizations
 Business-focused insights and recommendations
 Presentation summarizing findings for non-technical stakeholders
 
-Author
+## Author
 Marilyn Sedem Naayo

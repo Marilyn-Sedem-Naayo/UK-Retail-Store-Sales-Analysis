@@ -18,59 +18,59 @@ The analysis covers one year of transaction data (December 2010 – December 201
 - Item description
 - Quantity purchased
 - Unit price
-- 
+
 ## Key Dataset Characteristics
 - Time period: Dec 2010 – Dec 2011
 - Customers: ~3,950
 - Products: ~3,804
----
+  
 **Total Sales:** £8.618 million
 
 ## Business Questions Addressed
-How many unique items and customers are there?
-What are the most and least purchased products?
-Who are the top customers, and what do they purchase?
-On which days of the week are sales highest?
-At what time of day do most sales occur?
-How can customers be segmented based on purchasing behavior?
+- How many unique items and customers are there?
+- What are the most and least purchased products?
+- Who are the top customers, and what do they purchase?
+- On which days of the week are sales highest?
+- At what time of day do most sales occur?
+- How can customers be segmented based on purchasing behavior?
 
 ## Key Analyses Performed
-Exploratory Data Analysis (EDA) to understand sales distribution and trends
-Sales trend analysis by time of day and day of the week
-Product performance analysis (most and least purchased items)
-Customer analysis, including identification of high-value customers
-RFM (Recency, Frequency, Monetary) analysis for customer segmentation
+- Exploratory Data Analysis (EDA) to understand sales distribution and trends
+- Sales trend analysis by time of day and day of the week
+- Product performance analysis (most and least purchased items)
+- Customer analysis, including identification of high-value customers
+- RFM (Recency, Frequency, Monetary) analysis for customer segmentation
 
 ### RFM Customer Segments Identified
-Loyal Customers
-Potential Loyalists
-At-Risk Customers
-Low-Value Customers
+1. Loyal Customers
+2. Potential Loyalists
+3. At-Risk Customers
+4. Low-Value Customers
 
 ## Key Insights
-Sundays record the highest sales volume during the week
-A small group of customers contributes disproportionately to total revenue
-Certain products consistently show high demand, requiring proactive stock management
-Several low-performing items may benefit from bundling or repositioning
+- Sundays record the highest sales volume during the week
+- A small group of customers contributes disproportionately to total revenue
+- Certain products consistently show high demand, requiring proactive stock management
+- Several low-performing items may benefit from bundling or repositioning
 
 ## Recommendations
-Focus targeted promotions on loyal customers and potential loyalists
-Order high-demand products ahead of time to avoid stockouts
-Bundle low-selling items with high-demand products to increase visibility
-Optimize shelf placement by positioning low-performing items near popular products
-Investigate causes of product returns to reduce revenue loss
-Include profit per sale data in future datasets to enable profitability analysis
-Use data from additional years to improve revenue forecasting
+1. Focus targeted promotions on loyal customers and potential loyalists
+2. Order high-demand products ahead of time to avoid stockouts
+3. Bundle low-selling items with high-demand products to increase visibility
+4. Optimize shelf placement by positioning low-performing items near popular products
+5. Investigate causes of product returns to reduce revenue loss
+6. Include profit per sale data in future datasets to enable profitability analysis
+7. Use data from additional years to improve revenue forecasting
 
 ## Tools & Technologies
-Python (Pandas, NumPy)
-Data visualization libraries (Matplotlib, Seaborn)
-Jupyter Notebook
+- Python (Pandas, NumPy)
+- Data visualization libraries (Matplotlib, Seaborn)
+- Jupyter Notebook
 
 ## Project Output
-Exploratory analysis and visualizations
-Business-focused insights and recommendations
-Presentation summarizing findings for non-technical stakeholders
+* Exploratory analysis and visualizations
+* Business-focused insights and recommendations
+* Presentation summarizing findings for non-technical stakeholders
 
 ## Author
 Marilyn Sedem Naayo
